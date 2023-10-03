@@ -1,0 +1,5 @@
+[
+    { "id": 1, "name": "Смартфон 1", "brand": "Samsung" },
+    { "id": 2, "name": "Смартфон 2", "brand": "Apple" },
+    { "id": 3, "name": "Смартфон 3", "brand": "Apple", "price": 27990, "country": "Russia" }
+]
