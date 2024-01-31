@@ -1,0 +1,20 @@
+[
+    {   
+        "title": "Products Type",
+        "data": [
+            { "label": "Laptops", "checked": false },
+            { "label": "Tables", "checked": false },
+            { "label": "Keyboard", "checked": false },
+            { "label": "Chairs", "checked": false }
+        ]
+    },
+    {  
+        "title": "brand",
+        "data": [
+            { "label": "Laptops", "checked": false },
+            { "label": "Tables", "checked": false },
+            { "label": "Keyboard", "checked": false },
+            { "label": "Chairs", "checked": false }
+        ]
+    }
+]

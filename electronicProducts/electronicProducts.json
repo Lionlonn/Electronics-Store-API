@@ -1,110 +1,182 @@
 [
     {
+      "name": "Iphone 15",
+      "category": "Apple",
       "id": 1,
       "price": 799.99,
       "rating": 4.5,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "quantity": 3,
+      "selected": false
     },
     {
+      "name": "Iphone 15",
+      "category": "Apple",
       "id": 2,
       "price": 899.99,
       "rating": 4.6,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "quantity": 4,
+      "selected": false
     },
     {
+      "name": "Iphone 15",
+      "category": "Apple",
       "id": 3,
       "price": 699.99,
       "rating": 4.4,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "quantity": 1,
+      "selected": false
     },
     {
+      "name": "Iphone 15",
+      "category": "Apple",
       "id": 4,
       "price": 1099.99,
       "rating": 4.7,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "quantity": 16,
+      "selected": false
     },
     {
+      "name": "Iphone 15",
+      "category": "Apple",
       "id": 5,
       "price": 599.99,
       "rating": 4.3,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "quantity": 2,
+      "selected": false
     },
     {
+      "name": "Iphone 15",
+      "category": "Apple",
       "id": 6,
       "price": 1299.99,
       "rating": 4.8,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "quantity": 1,
+      "selected": false
     },
     {
+      "name": "Iphone 15",
+      "category": "Apple",
       "id": 7,
       "price": 749.99,
       "rating": 4.2,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "quantity": 13,
+      "selected": false
     },
     {
+      "name": "Iphone 15",
+      "category": "Apple",
       "id": 8,
       "price": 1199.99,
       "rating": 4.7,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "quantity": 12,
+      "selected": false
     },
     {
+      "name": "Iphone 15",
+      "category": "Apple",
       "id": 9,
       "price": 499.99,
       "rating": 4.0,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "quantity": 111,
+      "selected": false
     },
     {
+      "name": "Iphone 15",
+      "category": "Apple",
       "id": 10,
       "price": 849.99,
       "rating": 4.6,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "quantity": 1,
+      "selected": false
     },
     {
+      "name": "Iphone 15",
+      "category": "Apple",
       "id": 11,
       "price": 599.99,
       "rating": 4.3,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "quantity": 1,
+      "selected": false
     },
     {
+      "name": "Iphone 15",
+      "category": "Apple",
       "id": 12,
       "price": 999.99,
       "rating": 4.5,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "quantity": 12,
+      "selected": false
     },
     {
+      "name": "Iphone 15",
+      "category": "Apple",
       "id": 13,
       "price": 799.99,
       "rating": 4.1,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "quantity": 12,
+      "selected": false
     },
     {
+      "name": "Iphone 15",
+      "category": "Apple",
       "id": 14,
       "price": 1099.99,
       "rating": 4.8,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "quantity": 12,
+      "selected": false
     },
     {
+      "name": "Iphone 15",
+      "category": "Apple",
       "id": 15,
       "price": 699.99,
       "rating": 4.4,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "quantity": 12,
+      "selected": false
     },
     {
+      "name": "Iphone 15",
+      "category": "Apple",
       "id": 16,
       "price": 899.99,
       "rating": 4.6,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "quantity": 12,
+      "selected": false
     },
     {
+      "name": "Iphone 15",
+      "category": "Apple",
       "id": 17,
       "price": 799.99,
       "rating": 4.5,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "quantity": 12,
+      "selected": false
     },
     {
+      "name": "Iphone 15",
+      "category": "Apple",
       "id": 18,
       "price": 1199.99,
       "rating": 4.7,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "quantity": 12,
+      "selected": false
     }
 ]
