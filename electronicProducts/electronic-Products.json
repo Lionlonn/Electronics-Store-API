@@ -5,7 +5,7 @@
       "id": 1,
       "price": 799.99,
       "rating": 4.5,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "img": "https://i.pinimg.com/564x/4b/0c/56/4b0c56db0c048f1a5d9382db5b82d535.jpg",
       "quantity": 3,
       "selected": false
     },
@@ -15,7 +15,7 @@
       "id": 2,
       "price": 899.99,
       "rating": 4.6,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "img": "https://i.pinimg.com/564x/7d/45/d6/7d45d697db254aaeefbe2900e8869c8c.jpg",
       "quantity": 4,
       "selected": false
     },
