@@ -1,72 +1,123 @@
 [
-    {
-      "name": "Iphone 15",
-      "category": "Apple",
-      "id": 1,
-      "price": 799.99,
-      "rating": 4.5,
-      "img": "https://i.pinimg.com/564x/4b/0c/56/4b0c56db0c048f1a5d9382db5b82d535.jpg",
-      "quantity": 3,
-      "selected": false
-    },
-    {
-      "name": "Iphone 15",
-      "category": "Apple",
-      "id": 2,
-      "price": 899.99,
-      "rating": 4.6,
-      "img": "https://i.pinimg.com/564x/7d/45/d6/7d45d697db254aaeefbe2900e8869c8c.jpg",
-      "quantity": 4,
-      "selected": false
-    },
-    {
-      "name": "Iphone 15",
-      "category": "Apple",
-      "id": 3,
-      "price": 699.99,
-      "rating": 4.4,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
-      "quantity": 1,
-      "selected": false
-    },
-    {
-      "name": "Iphone 15",
-      "category": "Apple",
-      "id": 4,
-      "price": 1099.99,
-      "rating": 4.7,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
-      "quantity": 16,
-      "selected": false
-    },
-    {
-      "name": "Iphone 15",
-      "category": "Apple",
-      "id": 5,
-      "price": 599.99,
-      "rating": 4.3,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
-      "quantity": 2,
-      "selected": false
-    },
-    {
-      "name": "Iphone 15",
-      "category": "Apple",
-      "id": 6,
-      "price": 1299.99,
-      "rating": 4.8,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
-      "quantity": 1,
-      "selected": false
-    },
-    {
-      "name": "Iphone 15",
-      "category": "Apple",
-      "id": 7,
-      "price": 749.99,
-      "rating": 4.2,
-      "img": "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
-      "quantity": 13,
-      "selected": false
-    }
+  {
+    "name": "Filmaking",
+    "category": "Filmmaking",
+    "id": 1,
+    "price": 799.99,
+    "rating": 4.5,
+    "img": [
+      "https://i.pinimg.com/564x/4b/0c/56/4b0c56db0c048f1a5d9382db5b82d535.jpg",
+      "https://i.pinimg.com/564x/4b/0c/56/4b0c56db0c048f1a5d9382db5b82d535.jpg",
+      "https://i.pinimg.com/564x/4b/0c/56/4b0c56db0c048f1a5d9382db5b82d535.jpg"
+    ],
+    "quantity": 3,
+    "selected": false,
+    "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur"
+  },
+  {
+    "name": "Filmaking",
+    "category": "Filmmaking",
+    "id": 2,
+    "price": 799.99,
+    "rating": 4.5,
+    "img": [
+      "https://i.pinimg.com/564x/4b/0c/56/4b0c56db0c048f1a5d9382db5b82d535.jpg",
+      "https://i.pinimg.com/564x/4b/0c/56/4b0c56db0c048f1a5d9382db5b82d535.jpg",
+      "https://i.pinimg.com/564x/4b/0c/56/4b0c56db0c048f1a5d9382db5b82d535.jpg"
+    ],
+    "quantity": 3,
+    "selected": false,
+    "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur"
+  },
+  {
+    "name": "Iphone 15",
+    "category": "Apple",
+    "id": 3,
+    "price": 899.99,
+    "rating": 4.6,
+    "img": [
+      "https://i.pinimg.com/564x/7d/45/d6/7d45d697db254aaeefbe2900e8869c8c.jpg",
+      "https://i.pinimg.com/564x/7d/45/d6/7d45d697db254aaeefbe2900e8869c8c.jpg",
+      "https://i.pinimg.com/564x/7d/45/d6/7d45d697db254aaeefbe2900e8869c8c.jpg"
+    ],
+    "quantity": 4,
+    "selected": false,
+    "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur"
+  },
+  {
+    "name": "Iphone 16",
+    "category": "Apple",
+    "id": 4,
+    "price": 699.99,
+    "rating": 4.4,
+    "img": [
+      "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+    ],
+    "quantity": 1,
+    "selected": false,
+    "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur"
+  },
+  {
+    "name": "Iphone 17",
+    "category": "Apple",
+    "id": 5,
+    "price": 1099.99,
+    "rating": 4.7,
+    "img": [
+      "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+    ],
+    "quantity": 16,
+    "selected": false,
+    "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur"
+  },
+  {
+    "name": "Iphone 18",
+    "category": "Apple",
+    "id": 6,
+    "price": 599.99,
+    "rating": 4.3,
+    "img": [
+      "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+    ],
+    "quantity": 2,
+    "selected": false,
+    "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur"
+  },
+  {
+    "name": "Iphone 19",
+    "category": "Apple",
+    "id": 7,
+    "price": 1299.99,
+    "rating": 4.8,
+    "img": [
+      "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+    ],
+    "quantity": 1,
+    "selected": false,
+    "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur"
+  },
+  {
+    "name": "Iphone 20",
+    "category": "Apple",
+    "id": 8,
+    "price": 749.99,
+    "rating": 4.2,
+    "img": [
+      "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg",
+      "https://ironfriends.ru/wp-content/uploads/2022/10/03_iPhone_13.jpg"
+    ],
+    "quantity": 13,
+    "selected": false,
+    "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur"
+  }
 ]
+

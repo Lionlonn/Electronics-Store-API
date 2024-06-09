@@ -1,3 +1,6 @@
+const Stripe = require('stripe');
+
+
 const express = require('express');
 const cors = require('cors');
 const bodyParser = require('body-parser');
@@ -20,6 +23,41 @@ app.use(bodyParser.json());
 app.use(cors({
   origin: 'http://localhost:8081',
 }));
+
+
+// STRIPE START
+
+
+const stripe = new Stripe('sk_test_51PP4jDRsFOYd7qAnkd1C2DQU0X0XTlKdPgk6mpBBtfxbCf0qkwgEhJ7jLXDTgJuapeggWR4UMEIC6OsyWc2g61Tn00RcpxCal5', {
+  apiVersion: '2024-04-10',
+  typescript: true,
+});
+app.use(express.json());
+
+app.post('/create-payment-intent', async (req, res) => {
+  try {
+    console.log('Request received for creating payment intent');
+    const paymentIntent = await stripe.paymentIntents.create({
+      amount: 3000, 
+      currency: 'usd',
+    });
+    console.log('Payment Intent created successfully:', paymentIntent);
+    res.send({
+      clientSecret: paymentIntent.client_secret,
+    });
+  } catch (error) {
+    console.error('Error creating payment intent:', error.message);
+    res.status(500).send({ error: error.message });
+  }
+});
+
+
+app.listen(3002, () => console.log('Server up'));
+
+// STRIPE END
+
+
+
 
 
 
